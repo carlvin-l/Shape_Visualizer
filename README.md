@@ -4,7 +4,7 @@ A simple, interactive p5.js visualizer that generates colorful circles, triangle
 
 Controls
 
-Click/Enter	    Start the animation
+Click/Enter	    Start the animation \n
 1	              Display Circles
 2	              Display Triangles
 3	              Display Squares
