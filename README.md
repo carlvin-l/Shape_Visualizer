@@ -4,11 +4,11 @@ A simple, interactive p5.js visualizer that generates colorful circles, triangle
 
 Controls
 
-Click / Enter	Start the animation
-1	Display Circles
-2	Display Triangles
-3	Display Squares
-M	Mixed Shapes
-R	Reset current shapes
+Click/Enter	    Start the animation
+1	              Display Circles
+2	              Display Triangles
+3	              Display Squares
+M	              Mixed Shapes
+R	              Reset current shapes
 
 Can run it by double clicking on the "index.html" file.
