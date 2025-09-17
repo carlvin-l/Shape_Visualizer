@@ -24,7 +24,7 @@ function drawHUD(shapeType) {
     push();
     fill(255);
     textAlign(LEFT, TOP);
-    text("Controls:\n1 = Circles\n2 = Triangles\n3 = Squares\nM = Mixed\nR = Reset", 10, 10);
-    text(`Current: ${shapeType}`, 10, 100);
+    text("Controls:\n1 = Circles\n2 = Triangles\n3 = Squares\nM = Mixed\nR = Reset\n", 10, 10);
+    text(`Current: ${shapeType}`, 10, 110);
     pop();
 }
